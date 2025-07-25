@@ -12,11 +12,6 @@ To compile and run the shell program, follow these steps:
 
 # Design Document - HW1
 
-:::info
-Student ID: B112040003
-Department and Class: Computer Science 115
-Name: 張景旭
-:::
 
 
 ## 1. Overview
