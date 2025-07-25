@@ -11,7 +11,7 @@ To compile and run the shell program, follow these steps:
 2. ./main
 
 # Design Document - HW1
-{%hackmd @yW7HKRexRASTmH3kBDXQpQ/dark_theme2 %}
+
 :::info
 Student ID: B112040003
 Department and Class: Computer Science 115
